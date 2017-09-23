@@ -1,57 +1,28 @@
-.header1{
-    display: block;
+h2, h3{
     height: auto;
     width: 812px;
     margin: 40px 20px 20px 20px;
-    font-size: 22px;
     font-family: helvetica;
     color: #515d77;
 }
 img{
     margin: 0px 20px 0px 20px;
 }
-.header2{
+p{
     display: block;
     height: auto;
     width: 812px;
     margin: 20px;
-    font-size: 16px;
-    font-family: helvetica;
-    color: #515d77;
-}
-.header-item{
-    display: block;
-    height: auto;
-    width: 812px;
-    margin: 20px 20px 20px 20px;
-    padding: 0px 40px 0px 40px;
-    font-size: 18px;
-    font-family: helvetica;
-    color: #515d77;
-}
-.text{
-    display: block;
-    height: auto;
-    width: 812px;
-    margin: 20px;
-    font-size: 14px;
     font-family: helvetica;
 }
-.text-item{
-    display: block;
-    height: auto;
-    width: 700px;
-    margin: 20px 20px 20px 20px;
-    padding: 0px 0px 0px 40px;
-    font-size: 14px;
-    font-family: helvetica;
+ol{
+    width: 750px;
 }
 ul{
     list-style-image: url('../img/arrow.png');
     display: inline-block;
     margin: 0px 20px 20px 20px;
-    padding: 0px 40px 0px 40px;
-    font-size: 18px;
+    font-size: 16px;
     font-family: helvetica;
     color: #515d77;
 }
